@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brandon!</h1>
 <h3 align="center">A passionate full-stack developer in Grand Blanc, Michigan</h3>
 
-I have always had a passion for learning why the web works. I’ve taken classes to try to develop the skills necessary to better embrace the greatest well of opportunity there is: the internet. I’ve spent years working myriad jobs, a man of many hats, and always transitioned out when I found that the roles lacked sufficient tools to deepen my software engineering knowledge. When the pandemic hit, I became determined to get off the bench and get into the game, and began to learn what I could, and lean heavily into freelancing and contributing to open source projects.
+<p align="center">
+I have always had a passion for learning why the web works. I’ve taken classes to try to develop the skills necessary to better embrace the greatest well of opportunity there is: the internet. I’ve spent years working myriad jobs, a man of many hats, and always transitioned out when I found that the roles lacked sufficient tools to deepen my software engineering knowledge. When the pandemic hit, I became determined to get off the bench and get into the game, and began to learn what I could, and lean heavily into freelancing and contributing to open source projects.<p>
+
+
 
 
 - 🌱 I’m currently learning **react, Node.js**
