@@ -8,7 +8,7 @@ I have always had a passion for learning why the web works. I’ve taken classes
 
 
 
-- 🌱 I’m currently learning **react, Node.js**
+- 🌱 I’m currently learning **react, Node.js, and how to build my own Virtual Assistant!**
 
 - 👨‍💻 All of my projects are available at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.app)
 
