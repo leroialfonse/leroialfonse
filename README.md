@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/sGye1hI.png" width="100%" alt="Brandon White">
+<img src="(https://i.imgur.com/mnKjWyZ.png)" width="100%" alt="Brandon White">
+
 
 <p align="center">
   <a href="https://brandonwhitecodes.netlify.app" target="_blank">
@@ -101,4 +102,4 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
 
   
 <h3 align="left">Languages and Tools:</h3>
-[![Always Learning](https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode&theme=dark)](https://skillicons.dev)
