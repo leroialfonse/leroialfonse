@@ -100,6 +100,11 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   </tr>
 </table>
 
-  
-<h3 align="center">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode&theme=dark"/>(https://skillicons.dev)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode&theme=dark"/>
+  </a>
+</p>
+ 
