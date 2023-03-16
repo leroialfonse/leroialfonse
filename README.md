@@ -1,4 +1,4 @@
-<img src="(https://i.imgur.com/mnKjWyZ.png)" width="100%" alt="Brandon White">
+<img src="https://i.imgur.com/mnKjWyZ.png" width="100%" alt="Brandon White">
 
 
 <p align="center">
