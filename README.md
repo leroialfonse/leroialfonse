@@ -102,4 +102,4 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
 
   
 <h3 align="left">Languages and Tools:</h3>
-https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode&theme=dark(https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode&theme=dark"/>(https://skillicons.dev)
