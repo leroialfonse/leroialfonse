@@ -102,3 +102,4 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   
 <h3 align="left">Languages and Tools:</h3>
 [![Always Learning](https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
