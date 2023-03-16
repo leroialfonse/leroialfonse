@@ -24,7 +24,7 @@ A dedicated and adaptable Full-Stack Software Engineer, I am inspired by the opp
 
 Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.app) to learn more about my skills!
 
-- 📫 Feel free to get in touch at  **brandonwhitedev@gmail.com*
+- 📫 Feel free to get in touch at  *brandonwhitedev@gmail.com*
   
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
