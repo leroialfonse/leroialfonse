@@ -34,7 +34,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       <h3 align="center">#</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="#" width="100%" alt="Travel App"/>
+            <img src="#" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
@@ -50,7 +50,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       <h3 align="center"></h3>
         <br />
       <a target="_blank" href="#">
-            <img src="" width="100%"  alt="Rigley 2"/>
+            <img src="" width="100%"  alt="#"/>
         </a>
         <br />
         <p align="center">
@@ -71,7 +71,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       <h3 align="center">BrandonWhiteCodes.netlify.app</h3>
       <br />
         <a target="_blank" href="brandonwhitecodes.netlify.app">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="#" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
