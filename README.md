@@ -101,5 +101,5 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
 </table>
 
   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode&theme=dark"/>(https://skillicons.dev)
