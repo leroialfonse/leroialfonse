@@ -14,9 +14,7 @@
   <a href="https://wellfound.com/u/brandon-white-dev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-<!--   <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
+
 </p>
 
 <p align="left">
@@ -69,7 +67,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">BrandonWhiteCodes.netlify.app</h3>
+      <h3 align="center">brandonwhitecodes.netlify.app</h3>
       <br />
         <a target="_blank" href="brandonwhitecodes.netlify.app">
           <img src="#" width="100%" alt="Portfolio"/>
