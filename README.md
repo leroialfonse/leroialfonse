@@ -30,20 +30,20 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">#</h3>
+      <h3 align="center">LifeLine</h3>
         <br />
-        <a target="_blank" href="#">
-            <img src="#" width="100%" alt="#"/>
+        <a target="_blank" href="https://lifeline.cyclic.app/">
+<img src="https://github.com/leroialfonse/LifeLine/blob/1b70ef65f9e4f43740b962b6633dc34a73a2c8cd/LifeLineDemo.gif" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/leroialfonse/LifeLine" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="#" target="_blank">
       </p>
-        <p><strong></p>
+        <p><strong>A web app to organize and understand your healthcare concenrs!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"></h3>
@@ -67,10 +67,10 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">brandonwhitecodes.netlify.app</h3>
+      <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="brandonwhitecodes.netlify.app">
-          <img src="#" width="100%" alt="Portfolio"/>
+          <img src="" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
