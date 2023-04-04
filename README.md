@@ -43,7 +43,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   </a>  
   <a href="#" target="_blank">
       </p>
-        <p><strong>A web app to organize and understand your healthcare concenrs!</p>
+        <p><strong>A web app to organize and understand your healthcare concerns!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"></h3>
