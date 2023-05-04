@@ -32,7 +32,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       <h3 align="center">LifeLine</h3>
         <br />
         <a target="_blank" href="https://lifeline.cyclic.app/">
-<img src="https://github.com/leroialfonse/LifeLine/blob/1b70ef65f9e4f43740b962b6633dc34a73a2c8cd/LifeLineDemo.gif" width="50%" alt="#"/>
+<img src="https://github.com/leroialfonse/LifeLine/blob/1b70ef65f9e4f43740b962b6633dc34a73a2c8cd/LifeLineDemo.gif" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
@@ -50,7 +50,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       <h3 align="center"> Sweetie Pie's Bakery </h3>
         <br />
       <a target="_blank" href="#">
-            <img src="https://github.com/leroialfonse/SweetiePie/blob/main/SweetiePie%20(2).gif" width="50%"/>
+            <img src="https://github.com/leroialfonse/SweetiePie/blob/main/SweetiePie%20(2).gif" width="100%"/>
         </a>
         <br />
         <p align="center">
