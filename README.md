@@ -45,6 +45,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       </p>
         <p><strong>A web app to organize and understand your healthcare concerns!</p>
     </td>
+    <!-- Two -->
     <td width="50%" valign="top">
       <h3 align="center"></h3>
         <br />
@@ -65,12 +66,13 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
     </td>
   </tr>
   
+  <!-- Three -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="brandonwhitecodes.netlify.app">
-          <img src="/images/Brandon White - Full-Stack Web Developer.mp4  width="100%" alt="Portfolio"/>
+          <img src=""  width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -78,13 +80,13 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
 
-  <img src="https://imgur.com/a/Zy3ddia" width="100%" alt="My Portfolio e">
-
-C:\Users\brand\OneDrive\Desktop\Code Bootcamp\PersonalReadme\leroialfonse\Brandon White - Full-Stack Web Developer.mp4
+  <img src="" width="100%" alt="">
 
 </p>
 <p><strong>HTML5, CSS3, & Javascript</strong> - My Portfolio Site with links to my current projects and ways to get in touch with me (today)!</p>
 </td>
+
+<!-- Four -->
 <td width="50%" valign="top">
 <h3 align="center"></h3>
 <br />
