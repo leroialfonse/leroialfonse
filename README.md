@@ -47,22 +47,22 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
     </td>
     <!-- Two -->
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center"> Sweetie Pie's Bakery </h3>
         <br />
       <a target="_blank" href="#">
-            <img src="" width="100%"  alt="#"/>
+            <img src="https://github.com/leroialfonse/SweetiePie/blob/main/SweetiePie%20(2).gif" width="600"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/leroialfonse/SweetiePie" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="" target="_blank">
     <img src="#"/>
   </a>
       </p>
-        <p><strong>A full E-Commerce app for a bakery!</p>
+        <p><strong>A full E-Commerce app for a homestyle bakery!</p>
     </td>
   </tr>
   
@@ -76,7 +76,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/leroialfonse/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
 
@@ -91,7 +91,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
 <h3 align="center"></h3>
 <br />
 <a target="_blank" href="#">
-<img src="#" width="100%" alt=""/>
+<img src="" width="100%" alt=""/>
 </a>
 <br />
 <p align="center">
