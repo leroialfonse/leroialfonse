@@ -1,6 +1,5 @@
 <img src="https://i.imgur.com/mnKjWyZ.png" width="100%" alt="Brandon White">
 
-
 <p align="center">
   <a href="https://brandonwhitecodes.netlify.app" target="_blank">
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -23,8 +22,8 @@ A dedicated and adaptable Full-Stack Software Engineer, I am inspired by the opp
 
 Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.app) to learn more about my skills!
 
-- 📫 Feel free to get in touch at  *brandonwhitedev@gmail.com*
-  
+- 📫 Feel free to get in touch at *brandonwhitedev@gmail.com*
+
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -41,6 +40,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   <a href="https://github.com/leroialfonse/LifeLine" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
+  
   <a href="#" target="_blank">
       </p>
         <p><strong>A web app to organize and understand your healthcare concerns!</p>
@@ -61,7 +61,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
     <img src="#"/>
   </a>
       </p>
-        <p><strong>#</p>
+        <p><strong>A full E-Commerce app for a bakery!</p>
     </td>
   </tr>
   
@@ -70,7 +70,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="brandonwhitecodes.netlify.app">
-          <img src="" width="100%" alt="Portfolio"/>
+          <img src="/images/Brandon White.mp4 width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -98,11 +98,9 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
   </tr>
 </table>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,bootstrap,css,git,react,java,vscode&theme=dark"/>
   </a>
 </p>
- 
