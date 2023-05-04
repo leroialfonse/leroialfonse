@@ -70,7 +70,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
       <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="brandonwhitecodes.netlify.app">
-          <img src="https://imgur.com/a/Zy3ddia" width="100%" alt="My Portfolio Site">
+          <img src="https://github.com/leroialfonse/leroialfonse/blob/main/Brandon%20White%20-%20Full-Stack%20Web%20Developer%20.mp4" width="100%" alt="My Portfolio Site">
         </a>
       <br />
 
@@ -81,7 +81,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
 <h3 align="center"></h3>
 <br />
 <a target="_blank" href="#">
-<img src="/images/Brandon White - Full-Stack Web Developer.mp4" width="100%" alt="My Portfolio!"/>
+<img src="#" width="100%" alt=""/>
 </a>
 <br />
 <p align="center">
