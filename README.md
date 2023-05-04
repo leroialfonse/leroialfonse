@@ -89,7 +89,7 @@ C:\Users\brand\OneDrive\Desktop\Code Bootcamp\PersonalReadme\leroialfonse\Brando
 <h3 align="center"></h3>
 <br />
 <a target="_blank" href="#">
-<img src="/images/Brandon White - Full-Stack Web Developer.mp4" width="100%" alt="My Portfolio!"/>
+<img src="#" width="100%" alt=""/>
 </a>
 <br />
 <p align="center">
