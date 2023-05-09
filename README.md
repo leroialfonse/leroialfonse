@@ -49,7 +49,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
     <td width="50%" valign="top">
       <h3 align="center"> Sweetie Pie's Bakery </h3>
         <br />
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://github.com/leroialfonse/SweetiePie#readme">
             <img src="https://github.com/leroialfonse/SweetiePie/blob/main/SweetiePie%20(2).gif" width="100%"/>
         </a>
         <br />
