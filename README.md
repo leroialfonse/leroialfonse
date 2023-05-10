@@ -71,7 +71,7 @@ Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.ap
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
-        <a target="_blank" href="https://www.brandonwhitecodes.netlify.app">
+        <a target="_blank" href="https://brandonwhitecodes.netlify.app"/>
           <img src="https://github.com/leroialfonse/leroialfonse/blob/main/Brandon%20White%20Portfolio.gif"  width="100%" alt="Portfolio"/>
         </a>
       <br />
