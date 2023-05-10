@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/mnKjWyZ.png" width="100%" alt="Brandon White">
 
 <p align="center">
-  <a href="https://brandonwhitecodes.netlify.app" target="_blank">
+  <a href="[https://brandonwhitecodes.netlify.app](https://brandonwhitecodes.netlify.app/)" target="_blank">
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
   <a href="https://linkedin.com/in/brandon-white-dev" target="_blank">
