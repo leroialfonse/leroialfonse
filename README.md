@@ -20,7 +20,7 @@
 A dedicated and adaptable Full-Stack Software Engineer, I am inspired by the opportunity to overcome challenges through the use of technology.
 <p>
 
-Visit my website at [brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.app) to learn more about my skills!
+Visit my website at <a href="https://brandonwhitecodes.netlify.app">brandonwhitecodes.netlify.app</a>[brandonwhitecodes.netlify.app](brandonwhitecodes.netlify.app) to learn more about my skills!
 
 - 📫 Feel free to get in touch at *brandonwhitedev@gmail.com*
 
