@@ -1,5 +1,9 @@
 <img src="https://imgur.com/gallery/borrowed-typing-5s6NqYr#hbpNLgd" width="100%" alt="Brandon White">
 
+<img src="https://imgur.com/a/borrowed-typing-5s6NqYr" width="100%" alt="Brandon White">
+
+<img src="\Typing!.png" alt="Brandon White">
+
 
 <p align="center">
   <a href="[https://brandonwhitecodes.netlify.app](https://brandonwhitecodes.netlify.app/)" target="_blank">
