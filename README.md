@@ -1,5 +1,5 @@
 <img src="https://imgur.com/gallery/borrowed-typing-5s6NqYr#hbpNLgd" width="100%" alt="Brandon White">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5s6NqYr"  ><a href="//imgur.com/a/5s6NqYr">borrowed typing</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 <p align="center">
   <a href="[https://brandonwhitecodes.netlify.app](https://brandonwhitecodes.netlify.app/)" target="_blank">
